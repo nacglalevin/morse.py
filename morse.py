@@ -10,7 +10,7 @@
 import time
 import os
 os.system("clear")
-os.system("figlet MORSE")
+os.system("figlet MORSE NACG")
 # 导入摩尔斯电码对应的字母、数字、字符，并以字典的形式保存 。
 morse_dict = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.',
